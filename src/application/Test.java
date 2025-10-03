@@ -8,6 +8,7 @@ public class Test {
 		System.out.println("Je suis le master");
 		System.out.println("Je suis le dev");
 		System.out.println("Je modifie le code en tant que developpeur");
+		System.out.println("Je modifie le code en tant que developpeur branche dev");
 
 	}
 
