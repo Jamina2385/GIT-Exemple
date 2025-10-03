@@ -6,6 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		//Mon message
 		System.out.println("Je suis le master");
+		System.out.println("Je suis le dev");
 
 	}
 
